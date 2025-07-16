@@ -1,0 +1,36 @@
+{
+	"name": "acc-lfm-bop-scraper",
+	"version": "1.0.0",
+	"description": "Scraper that generates a bop.json file from LowFuel Motorsport BOP data for use on ACC servers.",
+	"main": "dist/app.js",
+	"scripts": {
+		"start": "tsc && node dist/app.js",
+		"eslint:check": "eslint .",
+		"eslint:fix": "eslint . --fix",
+		"prettier:check": "prettier --check .",
+		"prettier:write": "prettier --write ."
+	},
+	"keywords": [],
+	"author": "APN Carmine",
+	"license": "MIT",
+	"type": "module",
+	"devDependencies": {
+		"@eslint/js": "^9.31.0",
+		"@types/figlet": "^1.7.0",
+		"@types/node": "^24.0.14",
+		"eslint": "^9.31.0",
+		"eslint-config-prettier": "^10.1.5",
+		"globals": "^16.3.0",
+		"prettier": "^3.6.2",
+		"typescript": "^5.8.3",
+		"typescript-eslint": "^8.37.0"
+	},
+	"dependencies": {
+		"chalk": "^5.4.1",
+		"dotenv": "^17.2.0",
+		"figlet": "^1.8.2",
+		"gradient-string": "^3.0.0",
+		"node-fetch": "^3.3.2",
+		"zod": "^4.0.5"
+	}
+}

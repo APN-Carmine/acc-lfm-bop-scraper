@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Autodromo Enzo e Dino Ferrari",
+		"alias": "imola"
+	},
+	{
+		"name": "Autodromo Nazionale di Monza",
+		"alias": "monza"
+	},
+	{
+		"name": "Brands Hatch Circuit",
+		"alias": "brands_hatch"
+	},
+	{
+		"name": "Circuit de Catalunya",
+		"alias": "barcelona"
+	},
+	{
+		"name": "Circuit de Paul Ricard",
+		"alias": "paul_ricard"
+	},
+	{
+		"name": "Circuit de Spa Francorchamps",
+		"alias": "spa"
+	},
+	{
+		"name": "Circuit Of The Americas",
+		"alias": "cota"
+	},
+	{
+		"name": "Circuit Ricardo Tormo",
+		"alias": "valencia"
+	},
+	{
+		"name": "Donington Park",
+		"alias": "donington"
+	},
+	{
+		"name": "Hungaroring",
+		"alias": "hungaroring"
+	},
+	{
+		"name": "Indianapolis",
+		"alias": "indianapolis"
+	},
+	{
+		"name": "Kyalami",
+		"alias": "kyalami"
+	},
+	{
+		"name": "Laguna Seca",
+		"alias": "laguna_seca"
+	},
+	{
+		"name": "Misano",
+		"alias": "misano"
+	},
+	{
+		"name": "Mount Panorama Circuit",
+		"alias": "mount_panorama"
+	},
+	{
+		"name": "Nürburgring",
+		"alias": "nurburgring"
+	},
+	{
+		"name": "Nürburgring Nordschleife 24h",
+		"alias": "nurburgring_24h"
+	},
+	{
+		"name": "Oulton Park",
+		"alias": "oulton_park"
+	},
+	{
+		"name": "Silverstone",
+		"alias": "silverstone"
+	},
+	{
+		"name": "Snetterton",
+		"alias": "snetterton"
+	},
+	{
+		"name": "Spielberg - Red Bull Ring",
+		"alias": "red_bull_ring"
+	},
+	{
+		"name": "Suzuka Circuit",
+		"alias": "suzuka"
+	},
+	{
+		"name": "Watkins Glen",
+		"alias": "watkins_glen"
+	},
+	{
+		"name": "Zandvoort",
+		"alias": "zandvoort"
+	},
+	{
+		"name": "Zolder",
+		"alias": "zolder"
+	}
+]
